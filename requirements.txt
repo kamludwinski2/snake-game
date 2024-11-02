@@ -1,0 +1,2 @@
+# Python 3.11.10 | packaged by Anaconda, Inc.
+pygame==2.6.1

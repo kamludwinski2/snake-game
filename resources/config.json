@@ -1,0 +1,7 @@
+{
+    "squareSize": 30,
+    "rows": 20,
+    "cols": 20,
+    "windowName": "Snake Game",
+    "fps": 10
+}
